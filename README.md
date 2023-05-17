@@ -1,2 +1,2 @@
 # LearnMath
-Create an application to help students practice their mathematical skills 
+This is an application to help students practice their mathematical skills 
